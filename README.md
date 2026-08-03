@@ -1,1 +1,1 @@
-# Juana_Thimnu_1
+A portfolio of data analysis skills 
